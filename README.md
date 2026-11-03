@@ -31,7 +31,7 @@ Aprendi que git es un sistema que guarda el historial de cambios de una carpeta 
    y revisé con git status. 
 ![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/ef38ec6b8f3b456352c9f4cb96ea52de10b2e123/git%20status.png) 
 3. Los agregué con git add y guardé con git commit.
-![image alt]
+![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/bd7d3a81be4b968ccee58aa6a59374b4f16581aa/git%20add.png)
 4. Consulté el historial con git log. 
 ![image alt]
 5. Creé el alias git s para git status.
