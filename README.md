@@ -35,7 +35,7 @@ Aprendi que git es un sistema que guarda el historial de cambios de una carpeta 
 4. Consulté el historial con git log. 
 
 5. Creé el alias git s para git status.
-
+[image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/0f77417bda0d8137e3918cf45937e72702366f94/git%20s.png)
 6. Renombré principal.html a princ.html con git mv. 
 
 
