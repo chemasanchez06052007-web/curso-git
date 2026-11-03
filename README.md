@@ -26,18 +26,20 @@ Aprendi que git es un sistema que guarda el historial de cambios de una carpeta 
 
 ### Paso a paso
 1. Creé la carpeta folder 1 y la inicié con git init.
-   
+ ![image alt]  
 2. Creé archivos (indux.html, js/compresion.js, principal.html)
    y revisé con git status. 
-   
+![image alt]   
 3. Los agregué con git add y guardé con git commit.
-   
+![image alt]
 4. Consulté el historial con git log. 
-
+![image alt]
 5. Creé el alias git s para git status.
-¡[image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/0f77417bda0d8137e3918cf45937e72702366f94/git%20s.png)
-6. Renombré principal.html a princ.html con git mv. 
 
+![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/0f77417bda0d8137e3918cf45937e72702366f94/git%20s.png)
+
+6. Renombré principal.html a princ.html con git mv. 
+![image alt]
 
 
 
