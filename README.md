@@ -26,7 +26,7 @@ Aprendi que git es un sistema que guarda el historial de cambios de una carpeta 
 
 ### Paso a paso
 1. Creé la carpeta folder 1 y la inicié con git init.
- ![image alt]  
+ ![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/e28f5ce5c95af21bbec4ab993cf3bbc28629516b/git%20init.png)
 2. Creé archivos (indux.html, js/compresion.js, principal.html)
    y revisé con git status. 
 ![image alt]   
