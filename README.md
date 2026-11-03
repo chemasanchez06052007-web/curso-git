@@ -38,7 +38,7 @@ Aprendi que git es un sistema que guarda el historial de cambios de una carpeta 
 ![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/0f77417bda0d8137e3918cf45937e72702366f94/git%20s.png)
 
 5. Renombré principal.html a princ.html con git mv. 
-![image alt]
+![image alt](https://github.com/chemasanchez06052007-web/curso-git/blob/21e1fe5df970b8a1a58160abf5189a11ad52492b/mv.png)
 
 
 
